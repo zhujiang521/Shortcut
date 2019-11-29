@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shortcut</string>
+
+
+    <string name="static_disabled_message">测试信息</string>
+    <string name="static_shortcut_long_label">测试长标题</string>
+    <string name="static_shortcut_short_label">测试短标题</string>
+
+</resources>
